@@ -4,12 +4,29 @@
 # => parse html
 
 
+# go to git bash
+# git config --global user.name "Tisa Shrestha"
+# git config --global user.email "tisajuly16@gmail.com"
+
+
 
 # git init => initialize git
 # git status  => if you want to check what are the status  of files
 # git diff => if you want to check what are the changes
 # git add .  => track  all files
-# git commit -m "Your messagea" 
+# git commit -m "Your message"
+# copy paste git code from github
+
+
+
+#################################
+# 1. change the code
+# 2. git add .
+# 3. git commit -m "Your message"
+# 4. git push
+################################# 
+
+
 
 import json
 import sqlite3
