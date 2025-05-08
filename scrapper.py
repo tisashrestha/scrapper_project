@@ -3,6 +3,14 @@
 # python -m pip install beautifulsoup4
 # => parse html
 
+
+
+# git init => initialize git
+# git status  => if you want to check what are the status  of files
+# git diff => if you want to check what are the changes
+# git add .  => track  all files
+# git commit -m "Your messagea" 
+
 import requests
 from bs4 import BeautifulSoup
 import sqlite3
