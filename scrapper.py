@@ -11,9 +11,10 @@
 # git add .  => track  all files
 # git commit -m "Your messagea" 
 
+import json
+import sqlite3
 import requests
 from bs4 import BeautifulSoup
-import sqlite3
 
 URL = "https://books.toscrape.com/"
 
